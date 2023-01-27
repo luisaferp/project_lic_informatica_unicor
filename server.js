@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-
 //tablas
 const manejoFunciones = require("./routes/manejo_funciones");
 const interfacesTabla = require("./routes/interfacesTabla");
@@ -14,7 +13,12 @@ const td = require("./routes/tarjetas_didacticas");
 const codigosTD = require("./routes/codigos_td");
 const arrastrarYSoltar = require("./routes/arrastrar_y_soltar");
 const codigosAS = require("./routes/codigos_as");
-
+const ordenarLasPiezas = require("./routes/ordenar_las_piezas");
+const codigosOP = require("./routes/codigos_op");
+const evaluacion = require("./routes/evaluacion");
+const preguntas = require("./routes/preguntas");
+const respuestas = require("./routes/respuestas");
+const preguntasYrespuestas = require("./routes/preguntas_y_respuestas");
 
 //fin tablas
 
@@ -52,6 +56,12 @@ app.use('/api/tarjetas_didacticas',td);
 app.use('/api/codigos_td',codigosTD);
 app.use('/api/arrastrar_y_soltar',arrastrarYSoltar);
 app.use('/api/codigos_as',codigosAS);
+app.use('/api/ordenar_las_piezas',ordenarLasPiezas);
+app.use('/api/codigos_op',codigosOP);
+app.use('/api/evaluacion',evaluacion);
+app.use('/api/preguntas',preguntas);
+app.use('/api/respuestas',respuestas);
+app.use('/api/preguntas_y_respuestas',preguntasYrespuestas);
 
 
 module.exports = app;
