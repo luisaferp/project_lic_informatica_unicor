@@ -2,11 +2,11 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const ObjectId = mongoose.Schema.Types.ObjectId;
 
-const interfacesTablaSchema = new Schema({
+const InterfacesTablaSchema = new Schema({
     creditos : {
-        type : int,
+        type : Number,
         require: true
     }
 });
 
-module.exports = interfacesTabla = mongoose.model('interfaces',interfacesTablaSchema);
+module.exports = InterfacesTabla = mongoose.model('interfaces',InterfacesTablaSchema);

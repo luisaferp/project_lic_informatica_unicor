@@ -27,7 +27,7 @@ app.listen(3000, ()=>{
 })
 
 app.use('/api/manejo_funciones',manejoFunciones);
-app.use('/api/interfaces',interfacesTabla);
+app.use('/api/interfacesTabla',interfacesTabla);
 
 
 module.exports = app;

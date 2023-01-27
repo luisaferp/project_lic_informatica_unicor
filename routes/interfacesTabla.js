@@ -1,10 +1,10 @@
 const express = require('express');
 const router = express.Router();
-const interfacesTabla = require("../model/interfacesTabla")
+const InterfacesTabla = require("../model/interfacesTabla")
 
 router.get('/', async (req, res) => {
     try {
-      const items = await interfacesTabla.find();
+      const items = await InterfacesTabla.find();
       res.json(items);
     } catch (err) {
       console.error(err.message);
@@ -14,7 +14,7 @@ router.get('/', async (req, res) => {
 
   router.post('/', async (req, res) => {
 
-    const newItem = new interfacesTabla({
+    const newItem = new InterfacesTabla({
       creditos: req.body.creditos
     });
   
@@ -29,7 +29,7 @@ router.get('/', async (req, res) => {
 
   router.put('/:id', async (req, res) => {
     try {
-      const item = await interfacesTabla.findByIdAndUpdate(req.params.id, {
+      const item = await InterfacesTabla.findByIdAndUpdate(req.params.id, {
         $set: req.body
       }, { new: true });
   
@@ -46,7 +46,7 @@ router.get('/', async (req, res) => {
 
   router.delete('/:id', async (req, res) => {
     try {
-      const item = await interfacesTabla.findByIdAndDelete(req.params.id);
+      const item = await InterfacesTabla.findByIdAndDelete(req.params.id);
   
       if (!item) {
         return res.status(404).json({ msg: 'Item not found' });
