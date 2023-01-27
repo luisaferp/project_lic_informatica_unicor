@@ -1,0 +1,340 @@
+[
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:52:59.639Z",
+      "duration": 660,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8b3a64adde6045e59d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 0,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:00.407Z",
+      "duration": 137,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8c3a64adde6045e59f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 1,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:00.645Z",
+      "duration": 129,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8c3a64adde6045e5a1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 2,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:00.875Z",
+      "duration": 134,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8c3a64adde6045e5a3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 3,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:01.110Z",
+      "duration": 143,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8d3a64adde6045e5a5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 4,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:01.354Z",
+      "duration": 135,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8d3a64adde6045e5a7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 5,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:01.591Z",
+      "duration": 143,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8d3a64adde6045e5a9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 6,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:01.835Z",
+      "duration": 131,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8d3a64adde6045e5ab",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 7,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:02.067Z",
+      "duration": 126,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8e3a64adde6045e5ad",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 8,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:02.295Z",
+      "duration": 148,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8e3a64adde6045e5af",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 9,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:02.544Z",
+      "duration": 142,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8e3a64adde6045e5b1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 10,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:02.787Z",
+      "duration": 131,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8e3a64adde6045e5b3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 11,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/interfacesTabla",
+         "method": "POST",
+         "data": {
+            "creditos": "4"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:53:03.019Z",
+      "duration": 218,
+      "data": {
+         "creditos": 4,
+         "_id": "63d41d8f3a64adde6045e5b5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 12,
+      "isWarmup": false
+   }
+]

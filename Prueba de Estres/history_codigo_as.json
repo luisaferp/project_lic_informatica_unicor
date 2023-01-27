@@ -1,0 +1,704 @@
+[
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:04.663Z",
+      "duration": 270,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420603a64adde6045e6e9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 0,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:05.042Z",
+      "duration": 235,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420613a64adde6045e6eb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 1,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:05.379Z",
+      "duration": 146,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420613a64adde6045e6ed",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 2,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:05.627Z",
+      "duration": 142,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420613a64adde6045e6ef",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 3,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:05.870Z",
+      "duration": 281,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420613a64adde6045e6f1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 4,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:06.255Z",
+      "duration": 183,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420623a64adde6045e6f3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 5,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:06.540Z",
+      "duration": 132,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420623a64adde6045e6f5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 6,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:06.774Z",
+      "duration": 137,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420623a64adde6045e6f7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 7,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:07.013Z",
+      "duration": 137,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420633a64adde6045e6f9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 8,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:07.252Z",
+      "duration": 133,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420633a64adde6045e6fb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 9,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:07.487Z",
+      "duration": 154,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420633a64adde6045e6fd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 10,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:07.743Z",
+      "duration": 293,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420633a64adde6045e6ff",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 11,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:08.138Z",
+      "duration": 132,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420643a64adde6045e701",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 12,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:08.373Z",
+      "duration": 139,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420643a64adde6045e703",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 13,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:08.614Z",
+      "duration": 122,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420643a64adde6045e705",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 14,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:08.837Z",
+      "duration": 126,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420643a64adde6045e707",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 15,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:09.064Z",
+      "duration": 135,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420653a64adde6045e709",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 16,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:09.301Z",
+      "duration": 203,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420653a64adde6045e70b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 17,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:09.662Z",
+      "duration": 194,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420653a64adde6045e70d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 18,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:09.958Z",
+      "duration": 125,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420653a64adde6045e70f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 19,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:10.185Z",
+      "duration": 158,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420663a64adde6045e711",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 20,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:10.446Z",
+      "duration": 139,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420663a64adde6045e713",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 21,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:10.687Z",
+      "duration": 130,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420663a64adde6045e715",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 22,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:10.920Z",
+      "duration": 164,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420663a64adde6045e717",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 23,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:11.186Z",
+      "duration": 126,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420673a64adde6045e719",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 24,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:11.414Z",
+      "duration": 316,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420673a64adde6045e71b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 25,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_as",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "c++"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:05:11.832Z",
+      "duration": 236,
+      "data": {
+         "lenguaje_de_programacion": "c++",
+         "_id": "63d420673a64adde6045e71d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 26,
+      "isWarmup": false
+   }
+]

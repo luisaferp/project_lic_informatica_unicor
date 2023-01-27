@@ -1,0 +1,842 @@
+[
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:41.195Z",
+      "duration": 168,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1d3a64adde6045e5f3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 0,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:41.471Z",
+      "duration": 188,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1d3a64adde6045e5f5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 1,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:41.760Z",
+      "duration": 138,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1d3a64adde6045e5f7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 2,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:41.999Z",
+      "duration": 131,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1e3a64adde6045e5f9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 3,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:42.232Z",
+      "duration": 172,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1e3a64adde6045e5fb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 4,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:42.505Z",
+      "duration": 134,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1e3a64adde6045e5fd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 5,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:42.767Z",
+      "duration": 202,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1e3a64adde6045e5ff",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 6,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:43.071Z",
+      "duration": 133,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1f3a64adde6045e601",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 7,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:43.305Z",
+      "duration": 134,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1f3a64adde6045e603",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 8,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:43.541Z",
+      "duration": 147,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1f3a64adde6045e605",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 9,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:43.789Z",
+      "duration": 145,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f1f3a64adde6045e607",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 10,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:44.042Z",
+      "duration": 216,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f203a64adde6045e609",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 11,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:44.359Z",
+      "duration": 221,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f203a64adde6045e60b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 12,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:44.681Z",
+      "duration": 143,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f203a64adde6045e60d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 13,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:44.925Z",
+      "duration": 138,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f203a64adde6045e60f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 14,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:45.164Z",
+      "duration": 135,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f213a64adde6045e611",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 15,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:45.400Z",
+      "duration": 277,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f213a64adde6045e613",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 16,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:45.778Z",
+      "duration": 148,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f213a64adde6045e615",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 17,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:46.027Z",
+      "duration": 229,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f223a64adde6045e617",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 18,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:46.357Z",
+      "duration": 126,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f223a64adde6045e619",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 19,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:46.584Z",
+      "duration": 133,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f223a64adde6045e61b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 20,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:46.818Z",
+      "duration": 148,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f223a64adde6045e61d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 21,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:47.067Z",
+      "duration": 182,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f233a64adde6045e61f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 22,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:47.350Z",
+      "duration": 216,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f233a64adde6045e621",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 23,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:47.667Z",
+      "duration": 166,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f233a64adde6045e623",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 24,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:47.935Z",
+      "duration": 138,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f233a64adde6045e625",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 25,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:48.174Z",
+      "duration": 137,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f243a64adde6045e627",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 26,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:48.412Z",
+      "duration": 131,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f243a64adde6045e629",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 27,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:48.653Z",
+      "duration": 167,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f243a64adde6045e62b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 28,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/sopa_de_letras",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "jpg"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T18:59:48.922Z",
+      "duration": 145,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "jpg",
+         "_id": "63d41f243a64adde6045e62d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 29,
+      "isWarmup": false
+   }
+]

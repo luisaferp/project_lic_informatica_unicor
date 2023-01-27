@@ -10,4 +10,4 @@ const CodigosOPSchema = new Schema({
     }
 });
 
-module.exports = CodigosOP = mongoose.model('codigos_op',CodigosOPSchema);
+module.exports = CodigosOP = mongoose.model('codigos_ops',CodigosOPSchema);

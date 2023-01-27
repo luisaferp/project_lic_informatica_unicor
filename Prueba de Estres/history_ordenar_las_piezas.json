@@ -1,0 +1,926 @@
+[
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:47.940Z",
+      "duration": 141,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d4213f3a64adde6045e78b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 0,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:48.202Z",
+      "duration": 150,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421403a64adde6045e78d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 1,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:48.455Z",
+      "duration": 134,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421403a64adde6045e78f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 2,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:48.691Z",
+      "duration": 129,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421403a64adde6045e791",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 3,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:48.922Z",
+      "duration": 124,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421403a64adde6045e793",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 4,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:49.149Z",
+      "duration": 303,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421413a64adde6045e795",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 5,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:49.557Z",
+      "duration": 137,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421413a64adde6045e797",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 6,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:49.796Z",
+      "duration": 161,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421413a64adde6045e799",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 7,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:50.062Z",
+      "duration": 137,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421423a64adde6045e79b",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 8,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:50.302Z",
+      "duration": 148,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421423a64adde6045e79d",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 9,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:50.553Z",
+      "duration": 148,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421423a64adde6045e79f",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 10,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:50.803Z",
+      "duration": 160,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421423a64adde6045e7a1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 11,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:51.066Z",
+      "duration": 139,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421433a64adde6045e7a3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 12,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:51.307Z",
+      "duration": 370,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421433a64adde6045e7a5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 13,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:51.780Z",
+      "duration": 168,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421433a64adde6045e7a7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 14,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:52.049Z",
+      "duration": 162,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421443a64adde6045e7a9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 15,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:52.313Z",
+      "duration": 134,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421443a64adde6045e7ab",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 16,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:52.549Z",
+      "duration": 150,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421443a64adde6045e7ad",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 17,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:52.801Z",
+      "duration": 137,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421443a64adde6045e7af",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 18,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:53.039Z",
+      "duration": 292,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421453a64adde6045e7b1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 19,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:53.432Z",
+      "duration": 178,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421453a64adde6045e7b3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 20,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:53.714Z",
+      "duration": 161,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421453a64adde6045e7b5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 21,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:53.977Z",
+      "duration": 224,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421453a64adde6045e7b7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 22,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:54.305Z",
+      "duration": 253,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421463a64adde6045e7b9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 23,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:54.664Z",
+      "duration": 255,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421463a64adde6045e7bb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 24,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:55.021Z",
+      "duration": 143,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421473a64adde6045e7bd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 25,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:55.266Z",
+      "duration": 142,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421473a64adde6045e7bf",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 26,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:55.510Z",
+      "duration": 135,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421473a64adde6045e7c1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 27,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:55.746Z",
+      "duration": 152,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421473a64adde6045e7c3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 28,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:55.999Z",
+      "duration": 248,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421483a64adde6045e7c5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 29,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:56.351Z",
+      "duration": 295,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421483a64adde6045e7c7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 30,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:56.747Z",
+      "duration": 120,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421483a64adde6045e7c9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 31,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/ordenar_las_piezas",
+         "method": "POST",
+         "data": {
+            "enunciado": "aleatorio",
+            "formato": "numerico"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:08:56.969Z",
+      "duration": 123,
+      "data": {
+         "enunciado": "aleatorio",
+         "formato": "numerico",
+         "_id": "63d421483a64adde6045e7cb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 32,
+      "isWarmup": false
+   }
+]

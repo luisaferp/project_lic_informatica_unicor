@@ -1,0 +1,704 @@
+[
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:33.178Z",
+      "duration": 547,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420413a64adde6045e6b3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 0,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:33.831Z",
+      "duration": 433,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420413a64adde6045e6b5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 1,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:34.366Z",
+      "duration": 404,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420423a64adde6045e6b7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 2,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:34.871Z",
+      "duration": 436,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420423a64adde6045e6b9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 3,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:35.411Z",
+      "duration": 264,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420433a64adde6045e6bb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 4,
+      "isWarmup": true
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:35.778Z",
+      "duration": 567,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420433a64adde6045e6bd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 5,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:36.447Z",
+      "duration": 205,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420443a64adde6045e6bf",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 6,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:36.754Z",
+      "duration": 290,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420443a64adde6045e6c1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 7,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:37.145Z",
+      "duration": 451,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420453a64adde6045e6c3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 8,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:37.763Z",
+      "duration": 540,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420453a64adde6045e6c5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 9,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:38.405Z",
+      "duration": 189,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420463a64adde6045e6c7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 10,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:38.697Z",
+      "duration": 234,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420463a64adde6045e6c9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 11,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:39.032Z",
+      "duration": 295,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420473a64adde6045e6cb",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 12,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:39.496Z",
+      "duration": 202,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420473a64adde6045e6cd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 13,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:39.800Z",
+      "duration": 153,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420473a64adde6045e6cf",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 14,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:40.055Z",
+      "duration": 131,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420483a64adde6045e6d1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 15,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:40.287Z",
+      "duration": 194,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420483a64adde6045e6d3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 16,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:40.583Z",
+      "duration": 147,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420483a64adde6045e6d5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 17,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:40.832Z",
+      "duration": 164,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420483a64adde6045e6d7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 18,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:41.141Z",
+      "duration": 158,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420493a64adde6045e6d9",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 19,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:41.401Z",
+      "duration": 148,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420493a64adde6045e6db",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 20,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:41.651Z",
+      "duration": 165,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420493a64adde6045e6dd",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 21,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:41.917Z",
+      "duration": 121,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d420493a64adde6045e6df",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 22,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:42.139Z",
+      "duration": 163,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d4204a3a64adde6045e6e1",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 23,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:42.404Z",
+      "duration": 154,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d4204a3a64adde6045e6e3",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 24,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:42.659Z",
+      "duration": 135,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d4204a3a64adde6045e6e5",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 25,
+      "isWarmup": false
+   },
+   {
+      "request": {
+         "url": "http://localhost:3000/api/codigos_td",
+         "method": "POST",
+         "data": {
+            "lenguaje_de_programacion": "java"
+         },
+         "headers": {
+            "Accept": "application/json",
+            "Content-Type": "application/json; charset=utf-8"
+         },
+         "withCredentials": false,
+         "isHandledXhrRequest": true
+      },
+      "start": "2023-01-27T19:04:42.895Z",
+      "duration": 232,
+      "data": {
+         "lenguaje_de_programacion": "java",
+         "_id": "63d4204a3a64adde6045e6e7",
+         "__v": 0
+      },
+      "status": 201,
+      "isSuccess": true,
+      "iterationNumber": 26,
+      "isWarmup": false
+   }
+]
