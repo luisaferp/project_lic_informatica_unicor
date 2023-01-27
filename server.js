@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const manejoFunciones = require("./routes/manejo_funciones");
-const interfaces = require("./routes/interfaces");
+const interfacesTabla = require("./routes/interfacesTabla");
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
@@ -27,7 +27,7 @@ app.listen(3000, ()=>{
 })
 
 app.use('/api/manejo_funciones',manejoFunciones);
-app.use('/api/interfaces',interfaces);
+app.use('/api/interfaces',interfacesTabla);
 
 
 module.exports = app;
