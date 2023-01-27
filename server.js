@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-//tablas
 const manejoFunciones = require("./routes/manejo_funciones");
 const interfacesTabla = require("./routes/interfacesTabla");
 const contenido = require("./routes/contenido");
@@ -19,9 +18,10 @@ const evaluacion = require("./routes/evaluacion");
 const preguntas = require("./routes/preguntas");
 const respuestas = require("./routes/respuestas");
 const preguntasYrespuestas = require("./routes/preguntas_y_respuestas");
-
-//fin tablas
-
+const usuarios = require("./routes/usuarios");
+const recursos = require("./routes/recursos");
+const documentos = require("./routes/documentos");
+const infografias = require("./routes/infografias");
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
@@ -62,6 +62,10 @@ app.use('/api/evaluacion',evaluacion);
 app.use('/api/preguntas',preguntas);
 app.use('/api/respuestas',respuestas);
 app.use('/api/preguntas_y_respuestas',preguntasYrespuestas);
+app.use('/api/usuarios',usuarios);
+app.use('/api/recursos',recursos);
+app.use('/api/documentos',documentos);
+app.use('/api/infografias',infografias);
 
 
 module.exports = app;
